@@ -24,6 +24,7 @@ Below, I attached screenshots of mobile application.
 
 * Admin Category Page
 
+![ProjectScreenshot03](https://github.com/GayeshaUpeshika/Online-Shopping-System/assets/104220688/ed65646a-c9ea-4a69-9a1f-4c9f9cdef773)
 
 
 
@@ -31,11 +32,13 @@ Below, I attached screenshots of mobile application.
 
 * Admin Update Category Page
 
+![Screenshot (14)](https://github.com/GayeshaUpeshika/Online-Shopping-System/assets/104220688/1064c04b-556c-44ca-a106-9491333435b7)
 
 
 
 * User Category Page
 
+![ProjectScreenshot06](https://github.com/GayeshaUpeshika/Online-Shopping-System/assets/104220688/e6557933-a769-4b29-8dbf-837fedc893c2)
 
 
 
