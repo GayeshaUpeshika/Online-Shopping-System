@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_blouse_adddata.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_blouse_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_category_page.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_frock_adddata.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_frock_page.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_skirt_adddata.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_skirt_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_trouser_adddata.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_admin_trouser_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_singlerow.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_user_blouse_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_user_category_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_user_frock_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_user_skirt_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/activity_user_trouser_page.xml" value="0.1" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/dialogcontent.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/layout/singlerow.xml" value="0.1213768115942029" />
+        <entry key="..\:/MADProject/app/src/main/res/menu/searchmenu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

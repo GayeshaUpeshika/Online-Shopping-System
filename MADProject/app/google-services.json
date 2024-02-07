@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875624275211",
+    "firebase_url": "https://primroseboutique-e907c-default-rtdb.firebaseio.com",
+    "project_id": "primroseboutique-e907c",
+    "storage_bucket": "primroseboutique-e907c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875624275211:android:2138b12738a63ebcee960e",
+        "android_client_info": {
+          "package_name": "com.example.categoryproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875624275211-kf8nb7fbu4pv7a86i20a5vpbj9a8fsro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JhnSjTIIMAHaHlaOAYTohSiU21IO2IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875624275211-kf8nb7fbu4pv7a86i20a5vpbj9a8fsro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
